@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Comprehensive dining market data for Joliet, Illinois with a population of over 150k. Filtered by the Restaurants category group with business profiles, ratings, competitive metrics, and contact details. Refreshed weekly.",
+  "config_name": "All Restaurants in Joliet, Illinois, US",
+  "export_job_id": "1b0fa018-b313-4a4c-879a-e0e09632db65",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 362550,
+  "location_name": "Joliet",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-joliet-illinois-us-sample-362550",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/362550/beamstation_362550_restaurants-us-il_SAMPLE_DIST.csv",
+  "sample_pct": 9.91,
+  "sample_records": 53,
+  "sample_sha256": "1bd38f769cf7e12cccf228c946c4122365346bd007b388467cda37f4da6e5bbe",
+  "sample_size_bytes": 201181,
+  "total_records": 535,
+  "updated_at": "2026-04-09T14:07:12.119148+00:00"
+}
