@@ -1,12 +1,12 @@
 {
-  "export_job_id": "7a63e709-ff5a-4b18-8717-1c8dffe0b15a",
+  "export_job_id": "a2963822-6fa0-4704-b172-285fc397c443",
   "id_short": 362550,
-  "published_at": "2026-04-23T19:36:40Z",
+  "published_at": "2026-04-30T19:31:23Z",
   "repo_name": "all-restaurants-in-joliet-illinois-us-sample-362550",
   "sample_asset_name": "beamstation_362550_restaurants-us-il_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/362550/beamstation_362550_restaurants-us-il_SAMPLE_DIST.csv",
-  "sample_records": 45,
-  "sample_sha256": "b56ed8c3e6fc9647f856af972224f84f6da4171535b95481625dceb46592d436",
-  "sample_size_bytes": 171846,
-  "total_records": 455
+  "sample_records": 54,
+  "sample_sha256": "d938c8ab912a65fca32c8b1e375cdb4e0c83e09a35c6f994b894796e12f1c666",
+  "sample_size_bytes": 198828,
+  "total_records": 541
 }
